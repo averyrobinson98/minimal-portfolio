@@ -58,7 +58,8 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 <br>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### Kaggle Competition: Predict Flight Cancellation using Lasso, Ridge, XGBoost and LightGBM
+Put stuff from that one class here
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
