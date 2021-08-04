@@ -8,7 +8,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/course_performance_dashboard)
 
-**Description:** An interactive R Shiny Dashboard to predict a student's future performance and suggest 
+**Description:** An interactive R Shiny Dashboard to aid UCLA students in making future course descisions. A student who is wondering how they might do in a future course based on their grade in a previous course may enter the courses along with their course 1 grade in the top left filter box. They will then be presented with a distribution of course 1 grades, with the black bar indicating their placement in the distribution, and a distribution of course 2 grades for everyone who *also* received the same course 1 grade. Additionally, the student will be able to see, on the righthand side of the dashboard, the most frequent courses taken alongside the course entered as course 2. Course descriptions and pre-requistes are also listed, if available, and finally, an R-squared value is shown to provide the student an idea of the importance in course 1 grades in explaining and predicting course 2 grades.
 
 <center><img src="images/course_performance.png"/></center>
 
