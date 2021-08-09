@@ -19,7 +19,7 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 
 <div style="text-align: justify"> Using data from the USA gymnastics official website from three different quads: 2009-2012, 2013-2016, and 2017-present, and focusing on American senior elite female gymnasts perfomance at major competitions, I investigate common notions in the gymnastics community regarding score progression throughout quads. Additionally, I investigate scoring combinations on each event in combination with gymnast ranking to discover which score component is most beneficial to increase on each individual event -- difficulty or exection -- so that a gymnast could optimize her scores. </div> <br>
 
-<left><img src="images/gym.jpg" width = "100%"></left> 
+ 
 
 ---
 ### Stranger Things Text Mining Analysis
