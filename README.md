@@ -1,1 +1,1 @@
-Check out the minimal portfolio at https://github.com/averyrobinson98/minimal-portfolio/blob/master/index.md
+Check out the minimal portfolio at https://averyrobinson98.github.io/minimal-portfolio/
