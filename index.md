@@ -29,7 +29,7 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 
 <div style="text-align: justify">To gain insights into my favorite show, I scraped the episode script data for statistical analysis to understand general word, speech, and sentiment patternns in the series. Additionally, I analyze IMBD ratings of each episode and ese a variety of statistical and machine learning techniques to identify variables that help explain the variation observed ratings. </div>
 <br>
-<center><img src="images/epRatings.png" width = "50%"></center>
+<right><img src="images/epRatings.png" width = "50%"></right>
 <center><img src="images/varImp.png" width = "50%"></center>
 <br>
 
