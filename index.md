@@ -15,7 +15,7 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 ---
 ### Scoring Trends and Score Optimization in Elite Gymnastics
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/Elite-Gymnastics-Scoring-Trends)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/Elite-Gymnastics-Scoring-Trends)<br>
 [Article Link](https://www.bruinsportsanalytics.com/post/elite_gymnastics)
 
 <div style="text-align: justify"> 
@@ -27,8 +27,8 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 ---
 ### Stranger Things Text Mining Analysis
 
-[Project Report (GH Pages)](https://averyrobinson98.github.io/ST-series-Text-Mining/) <br>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/ST-series-Text-Mining)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/ST-series-Text-Mining)<br>
+[Project Report (GH Pages)](https://averyrobinson98.github.io/ST-series-Text-Mining/) 
 
 <div style="text-align: justify">To gain insights into my favorite show, I scraped the episode script data for statistical analysis to understand general word, speech, and sentiment patternns in the series. Additionally, I analyze IMBD ratings of each episode and ese a variety of statistical and machine learning techniques to identify variables that help explain the variation observed ratings. </div>
 <br>
