@@ -30,7 +30,9 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/ST-series-Text-Mining)<br>
 [Project Report (GH Pages)](https://averyrobinson98.github.io/ST-series-Text-Mining/) 
 
-<div style="text-align: justify">To gain insights into my favorite show, I scraped the episode script data for statistical analysis to understand general word, speech, and sentiment patternns in the series. Additionally, I analyze IMBD ratings of each episode and ese a variety of statistical and machine learning techniques to identify variables that help explain the variation observed ratings. </div>
+<div style="text-align: justify">To gain insights into my favorite show, I scraped the episode script data for statistical analysis to understand general word, speech, and sentiment patternns in the series. For my exploratory data analysis, I constructed visualizations of basic speaking frequency patterns, such as total lines, average word length, and vocabulary size, and analyzed season-to-season line proportion changes. To further analyze speech patterns,
+  
+  Additionally, I analyze IMBD ratings of each episode and ese a variety of statistical and machine learning techniques to identify variables that help explain the variation observed ratings. </div>
 <br>
 <center><img src="images/st_images.jpg" width = "100%"></center>
 <br> 
