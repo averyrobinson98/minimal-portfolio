@@ -15,6 +15,9 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 ---
 ### Scoring Trends and Score Optimization in Elite Gymnastics
 
+
+An article I wrote as a data journalist for Bruin Sports Analytics at UCLA.
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/Elite-Gymnastics-Scoring-Trends)<br>
 [Article Link](https://www.bruinsportsanalytics.com/post/elite_gymnastics)
 
