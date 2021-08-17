@@ -45,7 +45,7 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 
 <div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
 <br>
-<center><img src="images/flight_images.jpg" width = "100%"></center>
+<center><img src="images/acc.png" width = "100%"></center>
 <br>
 
 ---
