@@ -37,6 +37,7 @@ An [article](https://www.bruinsportsanalytics.com/post/elite_gymnastics) I wrote
   Additionally, I analyze IMBD ratings of each episode and ese a variety of statistical and machine learning techniques to identify variables that help explain the variation observed ratings. </div>
 <br>
 <center><img src="images/tf-idf table.jpg" width = "100%"></center>
+<center><img src="images/st_images.jpg" width = "100%"></center>
 <br> 
 
 ---
