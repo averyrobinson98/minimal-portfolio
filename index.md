@@ -47,11 +47,11 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 <br>
 <center><img src="images/acc.png" width = "65%"></center>
 
-- Logistic Regression: *** ~ 75.6% ***
-- KNN (K=3): *** ~ 95.5% ***
-- LDA: *** ~ 80.5% ***
-- QDA: *** ~ 79.1% ***
-- Random Forest: *** ~ 99.8% ***
+- Logistic Regression: <strong> ~ 75.6% </strong>
+- KNN (K=3): <strong> ~ 95.5% </strong>
+- LDA: <strong> ~ 80.5% </strong>
+- QDA: <strong> ~ 79.1% </strong>
+- Random Forest: <strong> ~ 99.8% </strong>
 - XGBoost: <strong>~ 99.3% </strong>
 <br>
 
