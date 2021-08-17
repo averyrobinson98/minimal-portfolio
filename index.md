@@ -16,8 +16,7 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 ### Scoring Trends and Score Optimization in Elite Gymnastics
 
 
-An [article](https://www.bruinsportsanalytics.com/post/elite_gymnastics) I wrote as a data journalist for Bruin Sports Analytics at UCLA.
-
+[An article](https://www.bruinsportsanalytics.com/post/elite_gymnastics) I wrote as a data journalist for Bruin Sports Analytics at UCLA. <br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/Elite-Gymnastics-Scoring-Trends)<br>
 
 <div style="text-align: justify"> 
@@ -29,7 +28,7 @@ An [article](https://www.bruinsportsanalytics.com/post/elite_gymnastics) I wrote
 ---
 ### Stranger Things Text Mining Analysis
 
-A [personl project](https://averyrobinson98.github.io/ST-series-Text-Mining/)  analyzing Netflix's Stranger Things via sentiment analysis and ML methods. 
+[A personl project](https://averyrobinson98.github.io/ST-series-Text-Mining/)  analyzing Netflix's Stranger Things via sentiment analysis and ML methods. <br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/ST-series-Text-Mining)<br>
 
 <div style="text-align: justify">To gain insights into my favorite show, I scraped the episode script data for statistical analysis to understand general word, speech, and sentiment patternns in the series. For my exploratory data analysis, I constructed visualizations of basic speaking frequency patterns, such as total lines, average word length, and vocabulary size, and analyzed season-to-season line proportion changes. To further analyze speech patterns,
