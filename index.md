@@ -44,7 +44,7 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/Flight_Cancellation/blob/master/FC.RMD)
 
 <div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
-
+<br>
 - Logistic Regression: <strong> ~ 75.6% </strong>
 - KNN (K=3): <strong> ~ 95.5% </strong>
 - LDA: <strong> ~ 80.5% </strong>
@@ -52,7 +52,7 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 - Random Forest: <strong> ~ 99.8% </strong>
 - XGBoost: <strong>~ 99.3% </strong>
 
-<right><img src="images/acc.png" width = "55%"></right>
+<center><img src="images/acc.png" width = "70%"></center>
 <br>
 
 ---
