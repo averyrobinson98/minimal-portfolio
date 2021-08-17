@@ -52,7 +52,7 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 - LDA: *** ~ 80.5% ***
 - QDA: *** ~ 79.1% ***
 - Random Forest: *** ~ 99.8% ***
-- XGBoost: *** ~ 99.3% ***
+- XGBoost: **~ 99.3% **
 <br>
 
 ---
