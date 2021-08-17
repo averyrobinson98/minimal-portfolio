@@ -43,7 +43,7 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/Flight_Cancellation/blob/master/FC.RMD)
 
-<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
+<div style="text-align: justify">For an in-class Kaggle classification competition, my group and I analyzed components of airline, airport, and population data that can help predict flight cancellation. Our report provides a detailed account of our feature engineering process, exploratory data analysis, and machine learning methods that we used to achieve our goal and predict flight cancellation with an accuracy of 99.85%.</div>
 <br>
 <center><img src="images/acc.jpg" width = "100%"></center>
 <br>
