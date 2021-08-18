@@ -4,7 +4,7 @@
 
 ### Course Performance Dashboard
 
-A project completed with an internal UCLA client for Stats 141SL -- Statistical Consulting.
+A project completed with an internal UCLA client for Stats 141SL —— Statistical Consulting.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/course_performance_dashboard)
 
@@ -16,7 +16,7 @@ A project completed with an internal UCLA client for Stats 141SL -- Statistical 
 ### Scoring Trends and Score Optimization in Elite Gymnastics
 
 
-[An article](https://www.bruinsportsanalytics.com/post/elite_gymnastics) I wrote as a data journalist for Bruin Sports Analytics at UCLA. <br> <br>
+[An article](https://www.bruinsportsanalytics.com/post/elite_gymnastics) written for Bruin Sports Analytics, a data science sports journalism club at UCLA. <br> <br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/Elite-Gymnastics-Scoring-Trends)<br>
 
 <div style="text-align: justify"> 
