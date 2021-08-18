@@ -8,7 +8,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/course_performance_dashboard)<br><br>
 A project completed with an internal UCLA client for Stats 141SL —— Statistical Consulting.<br>
 
-**Description:** An interactive R Shiny Dashboard to aid UCLA students in making future course decisions. The user can view suggested class recommendations based on the user’s previous courses taken, grades, major, and major department; they may also see grade distributions in a future course for students who also received the same grade in the same class as the user’s original input. Course descriptions and prerequisites are also listed, if available, and finally, an R-squared value is shown to provide the student an idea of the importance in course 1 grades in explaining and predicting course 2 grades.
+**Description:** An <em>interactive</em> R Shiny Dashboard to aid UCLA students in making future course decisions. The user can view suggested class recommendations based on the user’s previous courses taken, grades, major, and major department; they may also see grade distributions in a future course for students who also received the same grade in the same class as the user’s original input. Course descriptions and prerequisites are also listed, if available, and finally, an R-squared value is shown to provide the student an idea of the importance in course 1 grades in explaining and predicting course 2 grades.
 
 <center><img src="images/course_performance.png"/></center>
 
