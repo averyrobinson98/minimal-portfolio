@@ -26,7 +26,7 @@ A project completed with an internal UCLA client for Stats 141SL —— Statisti
 ### Stranger Things Text Mining Analysis
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/ST-series-Text-Mining)<br>
-[A personl project](https://averyrobinson98.github.io/ST-series-Text-Mining/) analyzing Netflix's Stranger Things via sentiment analysis and ML methods: <br>
+[A personal project](https://averyrobinson98.github.io/ST-series-Text-Mining/) analyzing Netflix's Stranger Things via sentiment analysis and ML methods: <br>
 
 **Description:** To gain insights into Netflix’s Stranger Things, I scraped the episode script data for statistical analysis to understand general word, speech, and sentiment patterns in the series. For my exploratory data analysis, I constructed visualizations of basic speaking frequency patterns, such as total lines, average word length, and vocabulary size, and analyzed season-to-season line proportion changes. To further analyze speech patterns, I calculated frequent word use, as well as the tf-idf ( term-frequency and inverse document frequency) scores to find unique words from each character. Additionally, I analyzed sentiment patterns in characters’ speech using R’s sentiment libraries. Finally, I investigated variation in IMDB ratings for each episode using stepwise selection, regularization, and random forests. 
 <br>
