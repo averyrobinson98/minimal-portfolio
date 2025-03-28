@@ -13,7 +13,7 @@ A project completed with an internal UCLA client for Stats 141SL — Statistical
 ---
 ### Investigation of Land-Atmosphere Interaction During Extreme Heat Events
 
-My work as a student researcher for Professor Karen McKinnon (Statistics & A&ES) on the role of the land surface and atmospheric circulation on the initiation and evolution of heatwave events in North America: <br> <br>
+Student researcher for Professor Karen McKinnon (Statistics & A&ES) on the role of the land surface and atmospheric circulation on the initiation and evolution of heatwave events in North America: <br> <br>
 
 <center><img src="images/climate_plots.jpg" width = "100%"></center>
 
