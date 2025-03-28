@@ -49,7 +49,7 @@ My work as a student researcher for Professor Karen McKinnon (Statistics & A&ES)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/Flight_Cancellation/blob/master/FC.RMD)<br>
 An in-class Kaggle competition predicting flight cancellation: <br>
 
-**Description:** My group and I analyzed components of airline, airport, and population data that can help predict flight cancellation. Our report provides a detailed account of our feature engineering process, exploratory data analysis, and machine learning methods that we used to achieve our goal and predict flight cancellation with an accuracy of 99.85%.
+**Description:** My group and I analyzed components of airline, airport, and population data to predict flight cancellation. Our report provides a detailed account of our feature engineering process, exploratory data analysis, and machine learning methods that led to our final prediction accuracy of 99.85%.
 <br>
 <center><img src="images/acc.jpg" width = "100%"></center>
 <br>
