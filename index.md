@@ -24,7 +24,7 @@ Student researcher for Professor Karen McKinnon (Statistics & A&ES) on the role 
 ### Scoring Trends and Score Optimization in Elite Gymnastics
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/Elite-Gymnastics-Scoring-Trends)<br>
-[An article](https://www.bruinsportsanalytics.com/post/elite_gymnastics) written for Bruin Sports Analytics, a data science sports journalism club at UCLA, analyzing common beliefs in the in gymnastics community: <br> 
+[An article](https://www.bruinsportsanalytics.com/post/elite_gymnastics) written for Bruin Sports Analytics, a data science sports journalism club at UCLA, analyzing common beliefs in the gymnastics community: <br> 
 
 
 **Description:** In elite gymnastics, a gymnast’s score is broken up into two components: execution and difficulty. Two common notions within the gymnastics community are that difficulty scores and execution scores increase as a quad progresses -- the thinking being that as the Olympics get closer, gymnasts do harder, more perfect, gymnastics. Using data from the USA gymnastics official website from three different quads: 2009-2012, 2013-2016, and 2017-present, and focusing on American senior elite female gymnasts perfomance at major competitions, I investigate these beliefs via statistical methods. Through F-tests I determined which events showed a significant change by year, and through Tukey HSD post hoc analysis I found in which years the differences came from. I found that, while difficulty scores do generally increase as olympic quads progress, execution scores do not. Finally, to assess whether the importance of difficulty scores or executions scores differs per event, I grouped the gymnasts in quantiles based on their rankings and analyzed the variation in each direction. It seems that, for bars, beam, and floor, high execution scores are more advantageous to gymnasts' overall ranking, whereas for vault, higher difficulty is preferable.
@@ -38,7 +38,7 @@ Student researcher for Professor Karen McKinnon (Statistics & A&ES) on the role 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/ST-series-Text-Mining)<br>
 [A personal project](https://averyrobinson98.github.io/ST-series-Text-Mining/) analyzing Netflix's Stranger Things via sentiment analysis and ML methods: <br>
 
-**Description:** To gain insights into Netflix’s Stranger Things, I scraped the episode script data for statistical analysis to understand general word, speech, and sentiment patterns in the series. For my exploratory data analysis, I constructed visualizations of basic speaking frequency patterns, such as total lines, average word length, and vocabulary size, and analyzed season-to-season line proportion changes. To further analyze speech patterns, I calculated frequent word use, as well as the tf-idf ( term-frequency and inverse document frequency) scores to find unique words from each character. Additionally, I analyzed sentiment patterns in characters’ speech using R’s sentiment libraries. Finally, I investigated variation in IMDB ratings for each episode using stepwise selection, regularization, and random forests. 
+**Description:** To gain insights into Netflix’s Stranger Things, I scraped episode script data for statistical analysis to understand general word, speech, and sentiment patterns in the series. For my exploratory data analysis, I constructed visualizations of basic speaking frequency patterns, such as total lines, average word length, and vocabulary size, and analyzed season-to-season line proportion changes. To further analyze speech patterns, I calculated frequent word use, as well as the tf-idf (term-frequency and inverse document frequency) scores to find unique words from each character. Additionally, I analyzed sentiment patterns in characters’ speech using R’s sentiment libraries. Finally, I investigated variation in IMDB ratings for each episode using stepwise selection, regularization, and random forests. 
 <br>
 <center><img src="images/tf-idf table.jpg" width = "100%"></center>
 <br> 
@@ -49,7 +49,7 @@ Student researcher for Professor Karen McKinnon (Statistics & A&ES) on the role 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/averyrobinson98/Flight_Cancellation/blob/master/FC.RMD)<br>
 An in-class Kaggle competition predicting flight cancellation: <br>
 
-**Description:** My group and I analyzed components of airline, airport, and population data to predict flight cancellation. Our report provides a detailed account of our feature engineering process, exploratory data analysis, and machine learning methods that led to our final prediction accuracy of 99.85%.
+**Description:** My group and I analyzed components of airline, airport, and population data to predict flight cancellation. Our report provides a detailed account of our feature engineering process, exploratory data analysis, and machine learning methods that led to our final prediction accuracy of 99.8%.
 <br>
 <center><img src="images/acc.jpg" width = "100%"></center>
 <br>
